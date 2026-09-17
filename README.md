@@ -1,16 +1,27 @@
-# React + Vite
+# 🎬 Movie Explorer Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Movie and TV Show Explorer web application built with React, React Router, Tailwind CSS, and DaisyUI. It fetches live data from the TVMaze API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Home Page:** Attractive landing page with a hero banner, branding, and a Call-to-Action (CTA) to explore movies.
+* **Movie Listing Page:** Browse all available movies/shows in a responsive grid layout.
+* **Live Search Functionality:** Instantly search for specific movies or TV series by title with real-time updates.
+* **Interactive Details Modal:** Click on any movie card to open a modal overlay displaying in-depth information (Rating, Release Date, Genres, Network, and Overview).
+* **Fully Responsive:** Seamless design optimized for mobile, tablet, and desktop viewports.
 
-## React Compiler
+## 🛠️ Technology Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Core:** JavaScript (ES6+), React
+* **Routing:** React Router DOM
+* **Styling:** Tailwind CSS, DaisyUI
+* **Data Source:** [TVMaze API](https://www.tvmaze.com/api)
+* **Deployment:** Vercel
 
-## Expanding the ESLint configuration
+## 📦 Installation & Setup Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To run this project on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Sumaiyaakter98/Movie-Explorer.git](https://github.com/Sumaiyaakter98/Movie-Explorer.git)
