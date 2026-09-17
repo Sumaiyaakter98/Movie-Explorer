@@ -1,12 +1,13 @@
-import { Component, StrictMode } from "react";
+import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 
 import { createBrowserRouter, RouterProvider } from "react-router";
-import Home from "./Pages/Home";
+
 import Layout from "./Layout/Layout";
 import MoviListingPage from "./pages/MoviListingPage";
 import MovieDetails from "./pages/MovieDetails";
+import Home from "./Pages/Home";
 
 let router = createBrowserRouter([
   {
