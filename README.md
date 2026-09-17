@@ -22,6 +22,5 @@ A responsive Movie and TV Show Explorer web application built with React, React 
 
 To run this project on your local machine, follow these steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Sumaiyaakter98/Movie-Explorer.git](https://github.com/Sumaiyaakter98/Movie-Explorer.git)
+## 🌐 Live Demo Link
+[Check out the live application here](https://movie-explorer-seven-sand.vercel.app)
